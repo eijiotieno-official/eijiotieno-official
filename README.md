@@ -17,12 +17,8 @@
 ---
 
 ### 👨‍💻 About Me :
-I am a Flutter App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya 🇰🇪.
-- :telescope: I’m working as a Fluter App Developer and contributing to frontend and backend for building mobile applications.
 
-- :seedling: Exploring Machine Learning and AI 🤖.
-
-- :zap: In my free time, I make video tutorials on Youtube.
+Hey there! 👋 I'm a Flutter App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya 🇰🇪, and I absolutely love what I do! 🚀 Peering through the telescope of technology, I'm busy contributing to both frontend and backend development, all in the pursuit of creating top-notch mobile applications. Join me on this exciting journey of crafting innovative solutions! 👨‍💻📱 
 
 ---
 
