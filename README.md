@@ -28,25 +28,27 @@ I build practical mobile apps and backend services that solve real problems for 
 
 ---
 
-### 🔭 What I am building
+### 🧰 Tech stacks (with icons)
 
-* EduConnect - offline friendly learning apps and teacher dashboards.
-* MarketList KE - seller listings with M PESA payments and WhatsApp order flow.
-* RAG Research Tools - lightweight prototypes for knowledge systems.
+#### Mobile
 
-(If you want direct links or demo GIFs, tell me which repos to point to and I will add them.)
+![Dart](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge\&logo=dart\&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge\&logo=flutter\&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
 
----
+#### Web
 
-### :hammer_and_wrench: Tech stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge\&logo=dart\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge\&logo=Flutter\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge\&logo=firebase\&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge\&logo=android-studio\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat\&logo=git)
+#### Backend & Databases
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge\&logo=postgresql\&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5?style=for-the-badge\&logo=firebase\&logoColor=white)
+
+#### Dev tools & CI
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GHActions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+
+#### AI & Tools
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-000000?style=for-the-badge\&logo=onnx\&logoColor=white)
 
 ---
 
@@ -60,30 +62,13 @@ I build practical mobile apps and backend services that solve real problems for 
 
 ---
 
-### Pinned projects
+### Pinned projects (top by stars)
 
-<!-- Replace the URLs below with your repo links or tell me which ones to add -->
-
-* [EduConnect](https://github.com/eijiotieno-official) - offline friendly learning app with teacher dashboards.
-* [MarketList KE](https://github.com/eijiotieno-official) - sellers listing app with M PESA and WhatsApp integration.
-* [RAG Research Tools](https://github.com/eijiotieno-official) - prototypes for retrieval augmented systems.
-
----
-
-### 🔎 Quick facts
-
-* Location: Nairobi, Kenya
-* Role: Mobile and Full Stack Developer
-* Tools: VS Code, Android Studio, Git, Firebase, Docker
-* Interests: EdTech, payments, lightweight AI tooling
+* [dum](https://github.com/eijiotieno-official/dum) — Dart library for ... (13 stars)
+* [flutter_clean_architecture_provider](https://github.com/eijiotieno-official/flutter_clean_architecture_provider) — Clean architecture scaffolding for Flutter with Provider (7 stars)
+* [kjv](https://github.com/eijiotieno-official/kjv) — Simple Dart Bible reader app (4 stars)
+* [gmail_ui](https://github.com/eijiotieno-official/gmail_ui) — UI experiments for mail clients (3 stars)
+* [flutter_mpesa](https://github.com/eijiotieno-official/flutter_mpesa) — M PESA integration helpers for Flutter (3 stars)
+* [bible_app](https://github.com/eijiotieno-official/bible_app) — Cross platform Bible reader (2 stars)
 
 ---
-
-### 📫 Contact
-
-* LinkedIn: [https://www.linkedin.com/in/eiji-otieno-62595b276](https://www.linkedin.com/in/eiji-otieno-62595b276)
-* GitHub: [https://github.com/eijiotieno-official](https://github.com/eijiotieno-official)
-* YouTube: [https://www.youtube.com/channel/UCLNrYarXe-whi6PCyp7lIjw](https://www.youtube.com/channel/UCLNrYarXe-whi6PCyp7lIjw)
-* Twitter: [https://twitter.com/_eijiotieno](https://twitter.com/_eijiotieno)
-
-Open to freelance work, collaborations, and mentoring. Tell me which repo links or demo GIFs you want shown and I will add them.
