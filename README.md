@@ -24,13 +24,11 @@
 
 ### 👋 Hi, I am Eiji Otieno
 
-I build practical mobile apps and backend services that solve real problems for education and small business in Kenya.  
-I prefer simple, testable solutions that are easy to maintain and scale.  
-I work end-to-end on product features — from UX and frontend to cloud functions and deployment.
+I build practical mobile apps and backend services that solve real problems for education and small businesses in Kenya. I prefer simple, testable solutions that are easy to maintain and scale. I work end to end on product features from UX and frontend to cloud functions and deployment.
 
 ---
 
-### 🧰 Tech stacks (with icons)
+### 🧰 Tech stacks
 
 #### Mobile
 ![Dart](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -61,32 +59,25 @@ I work end-to-end on product features — from UX and frontend to cloud function
 
 ---
 
-### :fire: GitHub Stats
+### 🔥 GitHub Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eijiotieno-official&theme=dark&background=000000)](https://github.com/eijiotieno-official)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eijiotieno-official&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Profile Trophy](https://github-profile-trophy.vercel.app/?username=eijiotieno-official&theme=dark&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-### 📌 Pinned Projects (Top by Stars)
+### 📌 Pinned projects (live stats)
 
-#### [dum](https://github.com/eijiotieno-official/dum) — Dart library for command-line tasks (13⭐)
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=eijiotieno-official&repo=dum&theme=dark" />
-
-#### [flutter_clean_architecture_provider](https://github.com/eijiotieno-official/flutter_clean_architecture_provider) — Clean architecture scaffolding for Flutter with Provider (7⭐)
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=eijiotieno-official&repo=flutter_clean_architecture_provider&theme=dark" />
-
-#### [kjv](https://github.com/eijiotieno-official/kjv) — Simple Dart Bible reader app (4⭐)
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=eijiotieno-official&repo=kjv&theme=dark" />
-
-#### [gmail_ui](https://github.com/eijiotieno-official/gmail_ui) — UI experiments for mail clients (3⭐)
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=eijiotieno-official&repo=gmail_ui&theme=dark" />
-
-#### [flutter_mpesa](https://github.com/eijiotieno-official/flutter_mpesa) — M-PESA integration helpers for Flutter (3⭐)
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=eijiotieno-official&repo=flutter_mpesa&theme=dark" />
-
-#### [bible_app](https://github.com/eijiotieno-official/bible_app) — Cross-platform Bible reader (2⭐)
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=eijiotieno-official&repo=bible_app&theme=dark" />
+| Preview | Project | Description | Stars |
+|----------|----------|--------------|--------|
+| <img src="https://opengraph.githubassets.com/1/eijiotieno-official/dum" width="200"/> | [dum](https://github.com/eijiotieno-official/dum) | Dart library for ... | ![Stars](https://img.shields.io/github/stars/eijiotieno-official/dum?style=social) |
+| <img src="https://opengraph.githubassets.com/1/eijiotieno-official/flutter_clean_architecture_provider" width="200"/> | [flutter_clean_architecture_provider](https://github.com/eijiotieno-official/flutter_clean_architecture_provider) | Clean architecture scaffolding for Flutter with Provider | ![Stars](https://img.shields.io/github/stars/eijiotieno-official/flutter_clean_architecture_provider?style=social) |
+| <img src="https://opengraph.githubassets.com/1/eijiotieno-official/kjv" width="200"/> | [kjv](https://github.com/eijiotieno-official/kjv) | Simple Dart Bible reader app | ![Stars](https://img.shields.io/github/stars/eijiotieno-official/kjv?style=social) |
+| <img src="https://opengraph.githubassets.com/1/eijiotieno-official/gmail_ui" width="200"/> | [gmail_ui](https://github.com/eijiotieno-official/gmail_ui) | UI experiments for mail clients | ![Stars](https://img.shields.io/github/stars/eijiotieno-official/gmail_ui?style=social) |
+| <img src="https://opengraph.githubassets.com/1/eijiotieno-official/flutter_mpesa" width="200"/> | [flutter_mpesa](https://github.com/eijiotieno-official/flutter_mpesa) | M-PESA integration helpers for Flutter | ![Stars](https://img.shields.io/github/stars/eijiotieno-official/flutter_mpesa?style=social) |
+| <img src="https://opengraph.githubassets.com/1/eijiotieno-official/bible_app" width="200"/> | [bible_app](https://github.com/eijiotieno-official/bible_app) | Cross-platform Bible reader | ![Stars](https://img.shields.io/github/stars/eijiotieno-official/bible_app?style=social) |
 
 ---
