@@ -59,7 +59,7 @@ I build practical mobile apps and backend services that solve real problems for 
 
 ---
 
-### 🔥 GitHub Stats
+### 🔥 Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eijiotieno-official&theme=dark&background=000000)](https://github.com/eijiotieno-official)
 
@@ -67,7 +67,7 @@ I build practical mobile apps and backend services that solve real problems for 
 
 ---
 
-### 📌 Pinned projects (live stats)
+### 📌 Projects
 
 | Preview | Project | Description | Stars |
 |----------|----------|--------------|--------|
