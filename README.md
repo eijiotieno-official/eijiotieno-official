@@ -65,8 +65,6 @@ I build practical mobile apps and backend services that solve real problems for 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eijiotieno-official&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Profile Trophy](https://github-profile-trophy.vercel.app/?username=eijiotieno-official&theme=dark&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ### 📌 Pinned projects (live stats)
